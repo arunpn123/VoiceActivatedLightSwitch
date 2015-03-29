@@ -7,4 +7,4 @@ I have shared the client program that runs on my Raspberry Pi.
 
 I will check in more instructions, schematic and code as soon as I finish cleaning it up.
 
-More explanation is available on my website : http://arunpn.com/voiceActivatedLightSwitch.html
+More explanation is available on my website : http://arunpn.com/projects/voice-activated-light-switch/
